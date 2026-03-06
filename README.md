@@ -32,8 +32,7 @@ The dashboard identifies the Top 5 Products contributing to revenue
 Sales trends help understand seasonal demand patterns
 
 ### Data Model
-
-![Data Model](images/Sales Dashboard Model.png)
+[![Data Model](Images/Sales Model.png)](Images/Sales_Model.png)
 
 The data model includes multiple tables related to:
 
