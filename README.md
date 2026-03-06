@@ -8,7 +8,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ### Dashboard Preview
 
-![Dashboard](images/Sales Dashboard.png)
+![Dashboard](Images/Sales Dashboard.png)
 
 ### Business Problem
 
