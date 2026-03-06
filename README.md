@@ -1,5 +1,5 @@
 # Sales Insight Data Analysis - Power BI Project
-##Project Overview:
+##Project Overview
 
 This project focuses on analyzing sales performance across multiple markets, customers, and products using Power BI.
 The dashboard helps business stakeholders monitor revenue trends, identify top-performing markets, and analyze customer and product performance.
