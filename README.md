@@ -1,22 +1,23 @@
-Project Overview
+# Sales Insight Data Analysis - Power BI Project
+##Project Overview:
 
 This project focuses on analyzing sales performance across multiple markets, customers, and products using Power BI.
 The dashboard helps business stakeholders monitor revenue trends, identify top-performing markets, and analyze customer and product performance.
 
 The goal of this project is to transform raw sales data into meaningful business insights using data modeling, DAX calculations, and interactive visualizations.
 
-Dashboard Preview
+##Dashboard Preview:
 
 ![Dashboard](images/Sales Dashboard.png)
 
-Business Problem
+##Business Problem:
 
 The company was facing challenges in analyzing sales performance across different regions and products.
 Manual reports were time-consuming and lacked interactive analysis capabilities.
 
 This Power BI dashboard solves the problem by providing real-time interactive insights for decision making.
 
-Key Insights
+##Key Insights:
 
 Total Revenue generated: 984.81M
 
@@ -30,7 +31,7 @@ The dashboard identifies the Top 5 Products contributing to revenue
 
 Sales trends help understand seasonal demand patterns
 
-Data Model
+##Data Model:
 
 ![Data Model](images/Sales Dashboard Model.png)
 
@@ -48,7 +49,7 @@ Date table
 
 Relationships were created to enable efficient filtering and aggregation across the dataset.
 
-Tools & Technologies Used
+##Tools & Technologies Used:
 
 Power BI Desktop
 
@@ -62,7 +63,7 @@ ETL Process
 
 Data Visualization
 
-Dashboard Features
+##Dashboard Features:
 
 Revenue trend analysis over time
 
@@ -76,7 +77,7 @@ Interactive filters for year and month
 
 KPI cards for quick business insights
 
-Skills Demonstrated
+##Skills Demonstrated:
 
 Data Cleaning
 
@@ -90,7 +91,7 @@ Dashboard Design
 
 Data Visualization
 
-Author
+##Author
 
 Vinay
 
